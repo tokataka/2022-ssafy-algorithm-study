@@ -16,7 +16,7 @@ int main()
 		cin >> arr[i];
 		pq.push(arr[i]);
 	}
-
+	 
 	long long result = 0;
 
 	for (int i = 0; i < N; i++) {
