@@ -42,3 +42,8 @@
 | 4/2   | 1 | https://www.acmicpc.net/problem/14500 |
 |       | 2 | https://www.acmicpc.net/problem/1049 |
 |       | 3 | https://www.acmicpc.net/problem/2293 |
+| 4/6   | 1 | https://www.acmicpc.net/problem/2573 |
+|       | 2 | https://www.acmicpc.net/problem/11726 |
+| 4/9   | 1 | https://www.acmicpc.net/problem/2616 |
+|       | 2 | https://www.acmicpc.net/problem/1389 |
+|       | 3 | https://www.acmicpc.net/problem/     |
