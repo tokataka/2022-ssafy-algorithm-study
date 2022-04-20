@@ -46,4 +46,9 @@
 |       | 2 | https://www.acmicpc.net/problem/11726 |
 | 4/9   | 1 | https://www.acmicpc.net/problem/2616 |
 |       | 2 | https://www.acmicpc.net/problem/1389 |
-|       | 3 | https://www.acmicpc.net/problem/     |
+|       | 3 | https://www.acmicpc.net/problem/1103 |
+| 4/13  | 1 | https://www.acmicpc.net/problem/1920 |
+|       | 2 | https://www.acmicpc.net/problem/2251 |
+| 4/16  | 1 | https://www.acmicpc.net/problem/11724 |
+|       | 2 | https://www.acmicpc.net/problem/1715 |
+|       | 3 | https://www.acmicpc.net/problem/16724 |
