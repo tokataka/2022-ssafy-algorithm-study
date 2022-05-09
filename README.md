@@ -52,3 +52,18 @@
 | 4/16  | 1 | https://www.acmicpc.net/problem/11724 |
 |       | 2 | https://www.acmicpc.net/problem/1715 |
 |       | 3 | https://www.acmicpc.net/problem/16724 |
+| 4/20  | 1 | https://www.acmicpc.net/problem/1520 |
+|       | 2 | https://www.acmicpc.net/problem/13459 |
+| 4/23  | 1 | https://www.acmicpc.net/problem/13459 |
+|       | 2 | https://www.acmicpc.net/problem/13459 |
+|       | 3 | https://www.acmicpc.net/problem/13459 |
+| 4/27  | 1 | https://www.acmicpc.net/problem/10815 |
+|       | 2 | https://www.acmicpc.net/problem/12015 |
+| 4/30  | 1 | https://www.acmicpc.net/problem/16236 |
+|       | 2 | https://www.acmicpc.net/problem/14503 |
+|       | 3 | https://www.acmicpc.net/problem/2468 |
+| 5/4   | 1 | https://www.acmicpc.net/problem/1005 |
+|       | 2 | https://www.acmicpc.net/problem/19598 |
+| 5/7   | 1 | https://www.acmicpc.net/problem/2240 |
+|       | 2 | https://www.acmicpc.net/problem/1525 |
+|       | 3 | https://www.acmicpc.net/problem/16920 |
