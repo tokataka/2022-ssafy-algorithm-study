@@ -54,9 +54,9 @@
 |       | 3 | https://www.acmicpc.net/problem/16724 |
 | 4/20  | 1 | https://www.acmicpc.net/problem/1520 |
 |       | 2 | https://www.acmicpc.net/problem/13459 |
-| 4/23  | 1 | https://www.acmicpc.net/problem/13459 |
-|       | 2 | https://www.acmicpc.net/problem/13459 |
-|       | 3 | https://www.acmicpc.net/problem/13459 |
+| 4/23  | 1 | https://www.acmicpc.net/problem/1706 |
+|       | 2 | https://www.acmicpc.net/problem/7562 |
+|       | 3 | https://www.acmicpc.net/problem/1300 |
 | 4/27  | 1 | https://www.acmicpc.net/problem/10815 |
 |       | 2 | https://www.acmicpc.net/problem/12015 |
 | 4/30  | 1 | https://www.acmicpc.net/problem/16236 |
